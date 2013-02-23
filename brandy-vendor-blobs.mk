@@ -91,7 +91,7 @@ PRODUCT_COPY_FILES += \
 
 # hw libs
 PRODUCT_COPY_FILES += \
-    vendor/alcatel/brandy/proprietary/lib/hw/sensors.msm7k.so:system/lib/hw/sensors.msm7k.so
+    vendor/alcatel/brandy/proprietary/lib/hw/sensors.msm7k.so:system/lib/hw/sensors.msm7x27.so
 
 # various files
 PRODUCT_COPY_FILES += \
