@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/alcatel/brandy/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
     vendor/alcatel/brandy/proprietary/lib/libgstk_exp.so:system/lib/libgstk_exp.so \
+    vendor/alcatel/brandy/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/alcatel/brandy/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/alcatel/brandy/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/alcatel/brandy/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
