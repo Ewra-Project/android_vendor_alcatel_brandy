@@ -28,21 +28,18 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/alcatel/brandy/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/alcatel/brandy/proprietary/lib/libdiag.so:system/lib/libdiag.so \
+    vendor/alcatel/brandy/proprietary/lib/libdll.so:system/lib/libdll.so \
     vendor/alcatel/brandy/proprietary/lib/libdsm.so:system/lib/libdsm.so \
     vendor/alcatel/brandy/proprietary/lib/libdss.so:system/lib/libdss.so \
-    vendor/alcatel/brandy/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/alcatel/brandy/proprietary/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
     vendor/alcatel/brandy/proprietary/lib/libgstk_exp.so:system/lib/libgstk_exp.so \
-    vendor/alcatel/brandy/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/alcatel/brandy/proprietary/lib/libmmgsdilib.so:system/lib/libmmgsdilib.so \
     vendor/alcatel/brandy/proprietary/lib/libnv.so:system/lib/libnv.so \
     vendor/alcatel/brandy/proprietary/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/alcatel/brandy/proprietary/lib/libpbmlib.so:system/lib/libpbmlib.so \
     vendor/alcatel/brandy/proprietary/lib/libqmi.so:system/lib/libqmi.so \
-    vendor/alcatel/brandy/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/alcatel/brandy/proprietary/lib/libqueue.so:system/lib/libqueue.so \
     vendor/alcatel/brandy/proprietary/lib/libril-qc-1.so:/system/lib/libril-qc-1.so \
-    vendor/alcatel/brandy/proprietary/lib/libril-qc-qmi-1.so:/system/lib/libril-qc-qmi-1.so \
     vendor/alcatel/brandy/proprietary/lib/libril-qcril-hook-oem.so:/system/lib/libril-qcril-hook-oem.so \
     vendor/alcatel/brandy/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/alcatel/brandy/proprietary/lib/libwmsts.so:system/lib/libwmsts.so
