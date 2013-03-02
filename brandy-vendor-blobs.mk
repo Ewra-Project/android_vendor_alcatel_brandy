@@ -66,7 +66,14 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/lib/libOmxQcelpHwDec.so:system/lib/libOmxQcelpHwDec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxVidEnc.so:system/lib/libOmxVidEnc.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
-    vendor/alcatel/brandy/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so
+    vendor/alcatel/brandy/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_aacdec_sharedlibrary.so:system/lib/libomx_aacdec_sharedlibrary.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_amrdec_sharedlibrary.so:system/lib/libomx_amrdec_sharedlibrary.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_amrenc_sharedlibrary.so:system/lib/libomx_amrenc_sharedlibrary.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_avcdec_sharedlibrary.so:system/lib/libomx_avcdec_sharedlibrary.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_m4vdec_sharedlibrary.so:system/lib/libomx_m4vdec_sharedlibrary.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_mp3dec_sharedlibrary.so:system/lib/libomx_mp3dec_sharedlibrary.so \
+    vendor/alcatel/brandy/proprietary/lib/libomx_sharedlibrary.so:system/lib/libomx_sharedlibrary.so
 
 # Adreno200 proprietary
 PRODUCT_COPY_FILES += \
