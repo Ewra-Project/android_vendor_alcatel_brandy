@@ -54,16 +54,11 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxAmrRtpDec.so:system/lib/libOmxAmrRtpDec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxAmrwbDec.so:system/lib/libOmxAmrwbDec.so \
-    vendor/alcatel/brandy/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
-    vendor/alcatel/brandy/proprietary/lib/libOmxEvrcHwDec.so:system/lib/libOmxEvrcHwDec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxMp3Dec.so:system/lib/libOmxMp3Dec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
-    vendor/alcatel/brandy/proprietary/lib/libOmxOn2Dec.so:system/lib/libOmxOn2Dec.so \
-    vendor/alcatel/brandy/proprietary/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
-    vendor/alcatel/brandy/proprietary/lib/libOmxQcelpHwDec.so:system/lib/libOmxQcelpHwDec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxVidEnc.so:system/lib/libOmxVidEnc.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/alcatel/brandy/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
