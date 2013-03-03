@@ -95,3 +95,9 @@ PRODUCT_COPY_FILES += \
 # various files
 PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/bin/sd_test:system/bin/sd_test
+
+# Camera
+PRODUCT_COPY_FILES += \
+    vendor/alcatel/brandy/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+    vendor/alcatel/brandy/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/alcatel/brandy/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so
