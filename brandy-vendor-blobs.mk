@@ -13,7 +13,8 @@
 # limitations under the License.
 
 # Prebuilt libraries that are needed to build open-source libraries
-#PRODUCT_COPY_FILES += \
+PRODUCT_COPY_FILES += \
+    vendor/alcatel/brandy/proprietary/lib/libcamera.so:obj/lib/libcamera.so
 
 # Compass and Bluetooth
 PRODUCT_COPY_FILES += \
@@ -100,7 +101,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/alcatel/brandy/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
-    vendor/alcatel/brandy/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so
+    vendor/alcatel/brandy/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
+    vendor/alcatel/brandy/proprietary/lib/libcamera.so:system/lib/libcamera.so
 
 # Audio
 PRODUCT_COPY_FILES += \
