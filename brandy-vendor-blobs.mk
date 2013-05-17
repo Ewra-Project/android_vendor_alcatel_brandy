@@ -82,6 +82,7 @@ PRODUCT_COPY_FILES += \
     vendor/alcatel/brandy/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
     vendor/alcatel/brandy/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/alcatel/brandy/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
+    vendor/alcatel/brandy/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/alcatel/brandy/proprietary/lib/libgsl.so:system/lib/libgsl.so
 
 # Mac addr
