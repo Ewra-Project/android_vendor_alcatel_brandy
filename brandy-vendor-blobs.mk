@@ -14,7 +14,10 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
-    vendor/alcatel/brandy/proprietary/lib/libcamera.so:obj/lib/libcamera.so
+    vendor/alcatel/brandy/proprietary/lib/libmmipl.so:obj/lib/libmmipl.so \
+    vendor/alcatel/brandy/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
+    vendor/alcatel/brandy/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
+    vendor/alcatel/brandy/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so
 
 # Compass and Bluetooth
 PRODUCT_COPY_FILES += \
